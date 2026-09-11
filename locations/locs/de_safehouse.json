@@ -865,9 +865,14 @@
         "jump": true
     },
     {
-  "name": ["Garage", "Roof boost"],
-  "weapon": "weapon_molotov",
-  "position": [1815.9953613281, -465.95617675781, 399.58435058594],
-  "viewangles": [-35.904041290283, 53.529426574707],
-    }
+  "name": ["Ladder", "Roof"],
+  "weapon": "weapon_knife",
+  "position": [2682.1533203125, 407.85568237305, 393.99520874023],
+  "viewangles": [23.350713729858, 171.34883117676],
+  "grenade": {
+    "recovery_yaw": 0
+  },
+  "duck": false
+}
+]
 ]
