@@ -864,15 +864,20 @@
         "recovery_yaw": 180,
         "jump": true
     },
-    {
-  "name": ["Ladder", "Roof"],
-  "weapon": "weapon_knife",
-  "position": [2682.1533203125, 407.85568237305, 393.99520874023],
-  "viewangles": [23.350713729858, 171.34883117676],
-  "grenade": {
-    "recovery_yaw": 0
-  },
-  "duck": false
+      {
+    "name": ["Ladder", "Roof"],
+    "weapon": "weapon_knife",
+    "position": [2682.1533203125, 407.85568237305, 393.99520874023],
+    "viewangles": [23.350713729858, 171.34883117676],
+    "movement": {
+      "frames": [
+        23,
+        [
+          0,
+          0,
+          "J"
+        ]
+      ]
     }
-    }
+  }
 ]
